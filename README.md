@@ -29,6 +29,3 @@ SURE/
 
 - Python 3.7 or higher
 - Libraries: `pdfplumber`, `pandas`
-
-Install dependencies using:
-
